@@ -1,0 +1,5 @@
+rafael,10,5,5
+Felipe,10,6,8
+joao,8,9,7
+galeani,8,9,7
+[{'rafael': 6.666666666666667}, {'Felipe': 8.0}, {'joao': 8.0}, {'galeani': 8.0}]
